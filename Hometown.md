@@ -9,5 +9,6 @@
 * Atlanta Falcons
 * Atlanta Thrashers (Formerly, click [Here](https://www.theguardian.com/sport/2022/mar/17/arizona-coyotes-gila-river-arena-tax-lockout-move-glendale-tempe-hockey-nhl) to learn more)
 ## Why Live in Atlanta?
->It is one of the most vibrant cities in the nation. It has an awesome atmosphere at night and a lot of really cool suburb-ish small towns throughout. All of them Have character and bring their own flair in some way.
+>It is one of the most vibrant cities in the nation. It has an awesome atmosphere at night and a lot of really cool suburb-ish small towns throughout. All of them Have character and bring their own flair in some way.  
+
 ![The Atlanta Braves won the World Series last year.](colesMidtermWeb/download.png)
