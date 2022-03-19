@@ -1,4 +1,4 @@
-# Valorant
+# Hobby: Valorant
 ## Genre: First Person Shooter
 ### What do you do?
 1. It is a 5v5 tactical shooter with an objective where you have to eliminate the enemy team.
@@ -7,4 +7,5 @@
 ### How much does it Cost?
 > Nothing! Thought there are (admittedly overpiced) cosmetics that can help the upkeep and development of the game.
 ### Where can I get started?
-Cick [here]() to visit their website to get started.
+Cick [here](https://playvalorant.com/en-us/?gclid=EAIaIQobChMI9abozInR9gIVDXNvBB2PCQbAEAAYASAAEgLszvD_BwE&gclsrc=aw.ds) to visit their website to get started.  
+![Valorant Characters](https://images.livemint.com/img/2020/06/03/600x338/Valorant_1591218052835_1591218061187.jpg)
