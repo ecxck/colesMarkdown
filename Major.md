@@ -6,5 +6,5 @@
 ## What do you do?
 1. Maintain [Computer Systems](https://en.wikipedia.org/wiki/Computer)
 2. Ensure the security of those systems from cyber threats
-3. create programs to help with both of the above tasks
-4. ![Code](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=1390&crop=1)
+3. create programs to help with both of the above tasks  
+![Code](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=1390&crop=1)
